@@ -8,7 +8,7 @@ Students are advised to check this page often!
 ## January
 
 ---------------------------------------------------------
-M 1/12: Course intro; 2.1 Rates of change  
+M 1/12: Course introduction  
 W 1/14: 2.1 Rates of change and tangents  
 F 1/16: 2.2 Limit of a function and limit laws  
 <!-- ;  **MLP Review 1: 1.1, 1.2**    -->
@@ -17,8 +17,8 @@ F 1/16: 2.2 Limit of a function and limit laws
 ---------------------------------------------------------
 M 1/19: (no class)  
 W 1/21: 2.3 Precise definition of limit  
-<!-- **MLP HW 1: 2.1, 2.2**    -->
 F 1/23: 2.4 One-sided limits  
+<!-- **MLP HW 1: 2.1, 2.2**    -->
 
 
 ---------------------------------------------------------
@@ -44,8 +44,8 @@ F 2/13: 3.5 Derivatives of trig functions
 ----------------------------------------
 M 2/16: 3.6 The chain rule  
 W 2/18: 3.6 more chain rule  
-<!-- **MLP HW 5: 3.3**    -->
 F 2/20: 3.7 Implicit differentiation  
+<!-- **MLP HW 5: 3.3**    -->
 
 ---------------------------------------------------------
 M 2/23: 3.8 Derivatives of inverses and logs  
