@@ -9,8 +9,8 @@ Math 165: Calculus I, Spring 2015
 **Lecture time and location:** MWF 10--11:50am in Carver 101.
 
 **Teaching Assistants:**  
-  + Mohit Kumbhat (Secs. 9, 11, 13)
-  + Alex Nowak (Secs. 10, 12, 14)
+  + [Mohit Kumbhat](mailto:mkumbhat@iastate.edu) (Secs. 9, 11, 13) Office: Carver 451  
+  + [Alex Nowak](mailto:anowak@iastate.edu) (Secs. 10, 12, 14) Office: Carver 489
 
 **Credits: 4**
 
@@ -18,14 +18,13 @@ Math 165: Calculus I, Spring 2015
 
 **Course Webpage:** http://github.com/williamdemeo/Math165-Spring2015
 
-**Some remarks about office hours:**  
-+ The regularly scheduled office hours listed above are subject to change.
-  Changes will be announced during lecture.
-+ Office hours are the hours during which I make a point of being
-  available in my office to answer questions.  However, students
-  are encouraged to stop by my office at anytime to see if I'm available.
-+ It is helpful (but not required) to [send me an email](mailto:williamdemeo@gmail.com)
-  in advance to let me know when you plan to visit.
+**Some remarks about office hours:**
+The regularly scheduled office hours listed above are subject to change.
+Changes will be announced during lecture. Office hours are the hours during
+which I make a point of being available in my office to answer questions.
+However, students are encouraged to stop by my office at anytime to see if I'm
+available. It is helpful (but not required) to [send me an email](mailto:williamdemeo@gmail.com)
+in advance to let me know when you plan to visit.
 
 ----------------------------------------------------------------------------------
 - [Introduction](#introduction)
