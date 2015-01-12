@@ -4,9 +4,7 @@ Math 165: Calculus I, Spring 2015
 **Instructor:**  William DeMeo  
 **Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)  
 **Office:** Carver, Room 466.  
-**Office hours:** (subject to change)  
-  + Monday, Wednesday, Friday 11am--12pm
-  + and by appointment.
+**Office hours:** (subject to change)  MWF 11am--12pm, and by appointment.  
 
 **Lecture time and location:** MWF 10--11:50am in Carver 101.
 
