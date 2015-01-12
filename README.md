@@ -32,6 +32,7 @@ in advance to let me know when you plan to visit.
 - [Overview, Prerequisites, Outcomes, Accessibility](#overview-prerequisites-outcomes-accessibility)
 - [Textbook](#textbook)
 - [Exams](#exams)
+- [Quizzes](#quizzes)
 - [Online Homework](#online-homework)
 - [Handwritten Homework](#handwritten-homework)
 - [Make-up Policy](#make-up-policy)
@@ -152,7 +153,6 @@ textbook less often than if you had purchased a hard copy.
 
 Exams
 -----
-
 There will be two tests, one midterm exam, and one final exam.
 **Each test is worth 15%, the midterm is worth 20%, and the final exam is worth
 25% of the course grade.**
@@ -189,6 +189,13 @@ might appear on the test.
 
 (For your convenience, the old exams for Math 165 are also collected in the
 [exams/old_exams directory](exams/old_exams) of this GitHub repository.)
+
+
+Quizzes
+-------
+There will be roughly 6 quizzes administered in the recitations sections
+throughout the semester.  Your best 5 quiz scores will account for 5% of the
+final course grade.
 
 
 Online Homework
