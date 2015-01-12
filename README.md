@@ -193,9 +193,8 @@ might appear on the test.
 
 Quizzes
 -------
-There will be roughly 6 quizzes administered in the recitations sections
-throughout the semester.  Your best 5 quiz scores will account for 5% of the
-final course grade.
+There will be roughly 6 quizzes administered in the recitations sections.  Your
+best 5 quiz scores will account for 5% of the final course grade.
 
 
 Online Homework
