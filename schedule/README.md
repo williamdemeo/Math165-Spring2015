@@ -22,7 +22,7 @@ F 1/23: 2.4 One-sided limits
 
 
 ---------------------------------------------------------
-M 1/26: 2.5 Continuity
+M 1/26: 2.5 Continuity  
 W 1/28: 2.6 Limits involving infinity, asymptotes  
 F 1/30: Review of Chapter 2  
 <!-- **MLP HW 2: 2.4, 2.5**    -->
