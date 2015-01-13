@@ -14,7 +14,9 @@ Math 165: Calculus I, Spring 2015
 
 **Credits: 4**
 
-**MyLabsPlus:** http://www.iastate.mylabsplus.com
+**MyLabsPlus:** http://www.iastate.mylabsplus.com  
+([MyLabsPlus login instructions](#online-homework))
+
 
 **Course Webpage:** http://github.com/williamdemeo/Math165-Spring2015
 
