@@ -17,7 +17,7 @@ Math 165: Calculus I, Spring 2015
 **Course Webpage:** http://github.com/williamdemeo/Math165-Spring2015
 
 **MyLabsPlus:** http://www.iastate.mylabsplus.com   
-([login instructions](http://www.math.iastate.edu/Undergrad/MMLplusRegistration.pdf))
+(For login instructions, see the [Online Homework](#online-homework) section below.)
 
 **Some remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
