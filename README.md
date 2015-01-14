@@ -220,14 +220,6 @@ get started by navigating to the [MyLabsPlus website][] and following the
 [MyLabsPlus Login Instructions](http://www.math.iastate.edu/Undergrad/MMLplusRegistration.pdf)
 provided in the document posted at [www.math.iastate.edu/Undergrad/MMLplusRegistration.pdf](http://www.math.iastate.edu/Undergrad/MMLplusRegistration.pdf).
 
-Students who have problems signing up for MLP can visit the representative 
-in person at the following locations in first week of the semester. Times and
-locations to be announced, but look for advertisements posted around Carver Hall.
-
-<!-- Tuesday Aug. 26, Carver 385, 9am--4pm   -->
-<!-- Wednesday Aug. 27, Bessey 119, 9am--4pm   -->
-<!-- Thursday Aug. 28, Gilman 1761, 9am--3:30pm   -->
-
 More information about MyLabsPlus is found in the [homework](homework) directory.
 
 
