@@ -22,8 +22,9 @@ following the MyLabsPlus login instructions found in the document
   <!--   + Thursday Aug 28, Gilman 1761, 9am--3:30pm   -->
 
 + **Browser Issues**  
-  If you believe your web browser might be causing problems,
-  please consult the document [MMLplusBrowser.pdf](MMLplusBrowser.pdf).
+  If you believe your web browser might be causing problems, first check that
+  your browser is not set to block pop-ups. If you still have trouble,
+  consult the document [MMLplusBrowser.pdf](MMLplusBrowser.pdf).
   (This document is also available at [www.math.iastate.edu/Undergrad/MMLplusBrowser.pdf](http://www.math.iastate.edu/Undergrad/MMLplusBrowser.pdf).)
 
 + **Other Issues**  
