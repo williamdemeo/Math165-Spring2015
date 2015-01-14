@@ -19,6 +19,8 @@ Math 165: Calculus I, Spring 2015
 **MyLabsPlus:** http://www.iastate.mylabsplus.com   
 (For login instructions, see the [Online Homework](#online-homework) section below.)
 
+**Math 165 Q&A Forum:** https://groups.google.com/d/forum/math165-spring2015
+  
 **Some remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
 Changes will be announced during lecture. Office hours are the hours during
