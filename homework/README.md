@@ -23,8 +23,8 @@ following the MyLabsPlus login instructions found in the document
 
 + **Browser Issues**  
   If you believe your web browser might be causing problems,
-  please consult the document [MMLplusBrowser.pdf](MMLplusBrowser.pdf), which
-  address browser issues. (This document is also available at [www.math.iastate.edu/Undergrad/MMLplusBrowser.pdf](http://www.math.iastate.edu/Undergrad/MMLplusBrowser.pdf).)
+  please consult the document [MMLplusBrowser.pdf](MMLplusBrowser.pdf).
+  (This document is also available at [www.math.iastate.edu/Undergrad/MMLplusBrowser.pdf](http://www.math.iastate.edu/Undergrad/MMLplusBrowser.pdf).)
 
 + **Other Issues**  
   To resolve other issues, you may contact  
