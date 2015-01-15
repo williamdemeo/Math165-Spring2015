@@ -9,8 +9,10 @@ Math 165: Calculus I, Spring 2015
 **Lecture time and location:** MWF 10--11:50am in Carver 101.
 
 **Teaching Assistants:**  
-  + [Mohit Kumbhat](mailto:mkumbhat@iastate.edu) (Secs. 9, 11, 13) Office: Carver 451  
-  + [Alex Nowak](mailto:anowak@iastate.edu) (Secs. 10, 12, 14) Office: Carver 489
+  + [Mohit Kumbhat](mailto:mkumbhat@iastate.edu) (Secs. 9, 11, 13)  
+	Office: Carver 451; Hours: MW 3--4pm.   
+  + [Alex Nowak](mailto:anowak@iastate.edu) (Secs. 10, 12, 14)  
+	Office: Carver 489; Hours: MW 1:30--2:30.
 
 **Credits: 4**
 
