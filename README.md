@@ -42,6 +42,7 @@ in advance to let me know when you plan to visit.
 - [Grading Policy](#grading-policy)
 - [Attendance](#attendance)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
+- [Supplemental Instruction](#supplemental-instruction)
 - [Academic Honesty](#academic-honesty)
 - [Disabilities Statement](#disabilities-statement)
 - [Additional Resources](#additional-resources)
@@ -315,6 +316,14 @@ focus on what is being taught in the lecture, computers can be very distracting
 to other students. **Use of electronic devices in lecture for purposes unrelated
 to calculus will not be tolerated.**
 
+Supplemental Instruction
+------------------------
+Supplemental Instruction (SI) is an internationally recognized academic support
+program offering free, regularly scheduled study sessions for traditionally
+difficult courses. Attend once or attend every session...the choice is up to
+you, but the data suggests that the more you attend, the higher your final grade
+will be in the course. Students are encouraged to attend SI at least once per
+week. More information is at https://apps-dso.sws.iastate.edu/si/
 
 Academic Honesty
 ----------------
