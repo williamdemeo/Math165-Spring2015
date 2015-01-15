@@ -345,6 +345,9 @@ see me. I am happy to assist with accommodations, but I will not
 provide them retroactively (so file the appropriate requests and paperwork 
 before the first exam!).
 
+Classroom Policy
+----------------
+In this course, we follow the general university classroom policy: http://www.math.iastate.edu/Faculty/ClassPolicies.html
 
 Additional Resources
 --------------------
