@@ -294,11 +294,11 @@ Specifically, you are permitted (but strongly discouraged from taking) seven
 absences in total. Each absence in addition
 to that may result in the deduction of points from your final grade.
 
-In most of the lectures, attendance will be recorded by passing around a sign-in
-sheet on which you will print and sign your own name. (If another student asks
-you to sign in for them, don't do it! Forging another student's signature
-constitutes a violation of the student code of conduct and will be referred to
-the ISU Office of Academic Integrity.)
+<!-- In most of the lectures, attendance will be recorded by passing around a sign-in -->
+<!-- sheet on which you will print and sign your own name. (If another student asks -->
+<!-- you to sign in for them, don't do it! Forging another student's signature -->
+<!-- constitutes a violation of the student code of conduct and will be referred to -->
+<!-- the ISU Office of Academic Integrity.) -->
 
 If you plan to leave before class is over, the correct procedure is to mention
 this to the professor before the start of class. It is impolite and disruptive
