@@ -332,7 +332,7 @@ question may appear on our google group forum (which is public).  If you're
 uncomfortable with this, please say so when asking the question.
 
 Finally, you may email the instructors directly, though the response
-time might be slower than if you use one of the prefered methods above.
+time might be slower than if you use one of the preferred methods above.
 
 
 Use of Electronics During Lecture
