@@ -23,13 +23,34 @@ Math 165: Calculus I, Spring 2015
 
 **Math 165 Q&A Forum:** https://groups.google.com/d/forum/math165-spring2015
   
-**Some remarks about office hours:**
+**Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
 Changes will be announced during lecture. Office hours are the hours during
 which I make a point of being available in my office to answer questions.
 However, students are encouraged to stop by my office at anytime to see if I'm
 available. It is helpful (but not required) to [send me an email](mailto:williamdemeo@gmail.com)
 in advance to let me know when you plan to visit.
+
+**Remarks about asking questions:**
+When you don't understand something, even after giving it some serious thought,
+please ask a question!  The best time to do this is during the lecture or
+recitation or office hours.  The next best means of asking a question is by
+posting it on our [google groups Q&A forum](https://groups.google.com/d/forum/math165-spring2015).
+
+(If you would prefer to keep your question private, you may email one of the
+instructors instead of posting your question.)
+
+There are two ways to post to our google groups forum:
+
+1. visit the page https://groups.google.com/d/forum/math165-spring2015 and
+   select "Post a Question", OR
+
+2. send your question to the forum by email at the
+   address [math165-spring2015 at googlegroups.com](mailto:math165-spring2015@googlegroups.com).
+
+Please note: if you ask a question using the "Ask my instructor" link on
+MyLabsPlus, your question may be posted on our google group forum (which is public).
+
 
 ----------------------------------------------------------------------------------
 - [Introduction](#introduction)
