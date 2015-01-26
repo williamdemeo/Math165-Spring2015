@@ -321,8 +321,8 @@ There are two ways to post on our google groups forum:
 1. visit the page https://groups.google.com/d/forum/math165-spring2015 and
    select "Post a Question", OR
 
-2. send your question to the forum by email at the
-   address [math165-spring2015 at googlegroups.com](mailto:math165-spring2015@googlegroups.com).
+2. send your post via email using the
+   address [math165-spring2015 at googlegroups dot com](mailto:math165-spring2015@googlegroups.com).
 
 Another way to ask a question is by using the "Ask my instructor" link on
 MyLabsPlus. This method is most convenient for the instructor because
