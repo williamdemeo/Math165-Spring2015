@@ -31,26 +31,6 @@ However, students are encouraged to stop by my office at anytime to see if I'm
 available. It is helpful (but not required) to [send me an email](mailto:williamdemeo@gmail.com)
 in advance to let me know when you plan to visit.
 
-**Remarks about asking questions:**
-When you don't understand something, even after giving it some serious thought,
-please ask a question!  The best time to do this is during the lecture or
-recitation or office hours.  The next best means of asking a question is by
-posting it on our [google groups Q&A forum](https://groups.google.com/d/forum/math165-spring2015).
-
-(If you would prefer to keep your question private, you may email one of the
-instructors instead of posting your question.)
-
-There are two ways to post to our google groups forum:
-
-1. visit the page https://groups.google.com/d/forum/math165-spring2015 and
-   select "Post a Question", OR
-
-2. send your question to the forum by email at the
-   address [math165-spring2015 at googlegroups.com](mailto:math165-spring2015@googlegroups.com).
-
-Please note: if you ask a question using the "Ask my instructor" link on
-MyLabsPlus, your question may be posted on our google group forum (which is public).
-
 
 ----------------------------------------------------------------------------------
 - [Introduction](#introduction)
@@ -64,6 +44,7 @@ MyLabsPlus, your question may be posted on our google group forum (which is publ
 - [Make-up Policy](#make-up-policy)
 - [Grading Policy](#grading-policy)
 - [Attendance](#attendance)
+- [Asking Questions](#asking-questions)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
 - [Supplemental Instruction](#supplemental-instruction)
 - [Academic Honesty](#academic-honesty)
@@ -325,6 +306,32 @@ If you plan to leave before class is over, the correct procedure is to mention
 this to the professor before the start of class. It is impolite and disruptive
 to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
+
+
+Asking Questions
+----------------
+When you don't understand something even after giving it some thought,
+please ask a question!  The best time/place to do this is during the lecture or
+recitation or office hours.
+
+The second best time/place to ask a question is anytime on our [google groups Q&A forum](https://groups.google.com/d/forum/math165-spring2015).
+(If you would prefer to keep your question private, you may email one of the
+instructors instead of posting your question to the public forum.)
+
+There are two ways to post to our google groups forum:
+
+1. visit the page https://groups.google.com/d/forum/math165-spring2015 and
+   select "Post a Question", OR
+
+2. send your question to the forum by email at the
+   address [math165-spring2015 at googlegroups.com](mailto:math165-spring2015@googlegroups.com).
+
+Finally, you may use the "Ask my instructor" link on MyLabsPlus to ask a
+question about the homework. This is convenient for the instructor because
+details about the problem you're asking about will be automatically embedded
+into your email.  Please note: if you use the "Ask my instructor" button, your
+question may appear on our google group forum (which is public).  If you're
+uncomfortable with this, please say so when asking the question.
 
 
 Use of Electronics During Lecture
