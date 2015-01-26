@@ -23,9 +23,11 @@ F 1/23: 2.4 One-sided limits
 
 ---------------------------------------------------------
 M 1/26: 2.5 Continuity  
+<!-- **MLP HW 2: 2.4, 2.5**    -->
 W 1/28: 2.6 Limits involving infinity, asymptotes  
 F 1/30: Review of Chapter 2  
-<!-- **MLP HW 2: 2.4, 2.5**    -->
+<!-- **MLP HW 3: 2.6**   -->
+
 
 ## February
 
@@ -33,24 +35,26 @@ F 1/30: Review of Chapter 2
 M 2/2: **Test 1** (on Sections 2.1--2.6)  
 W 2/4: 3.1 Tangents and the derivative at a point  
 F 2/6: 3.2 The derivative as a function  
-<!-- **MLP HW 3: 2.6**   -->
 
 --------------
 M 2/9: 3.3 Differentiation rules  
+<!-- **MLP HW 4: 3.1, 3.2**    -->
 W 2/11: 3.4 The derivative as a rate of change  
 F 2/13: 3.5 Derivatives of trig functions  
-<!-- **MLP HW 4: 3.1, 3.2**    -->
+<!-- **MLP HW 5: 3.3**    -->
 
 ----------------------------------------
 M 2/16: 3.6 The chain rule  
+<!-- **MLP HW 6: 3.4, 3.5**    -->
 W 2/18: 3.6 more chain rule  
 F 2/20: 3.7 Implicit differentiation  
-<!-- **MLP HW 5: 3.3**    -->
+<!-- **MLP HW 7: 3.6**    -->
 
 ---------------------------------------------------------
 M 2/23: 3.8 Derivatives of inverses and logs  
+<!-- **MLP HW 8: 3.7**    -->
 W 2/25: Midterm exam review  
-+ **Mid-term Exam: Wednesday evening, February 15, 2015, 8:15--9:45pm**  
++ **Mid-term Exam: Wednesday evening, February 25, 2015, 8:15--9:45pm**  
 
 
 
