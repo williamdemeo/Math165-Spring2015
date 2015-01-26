@@ -311,14 +311,15 @@ is over.
 Asking Questions
 ----------------
 When you don't understand something even after giving it some thought,
-please ask a question!  The best time/place to do this is during the lecture or
+please ask a question!  The best time/place to do this is during lecture or
 recitation or office hours.
 
-The second best time/place to ask a question is anytime on our [google groups Q&A forum](https://groups.google.com/d/forum/math165-spring2015).
-(If you would prefer to keep your question private, you may email one of the
-instructors instead of posting your question to the public forum.)
+The second best time/place to ask a question is on our [google groups Q&A forum](https://groups.google.com/d/forum/math165-spring2015).
 
-There are two ways to post to our google groups forum:
+Finally, if you prefer to keep your question private, you may email one of
+the instructors.
+
+There are two ways to post on our google groups forum:
 
 1. visit the page https://groups.google.com/d/forum/math165-spring2015 and
    select "Post a Question", OR
