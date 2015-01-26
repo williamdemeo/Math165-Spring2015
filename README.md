@@ -327,9 +327,9 @@ There are two ways to post on our google groups forum:
 Another way to ask a question is by using the "Ask my instructor" link on
 MyLabsPlus. This method is most convenient for the instructor because
 details about the problem you're having trouble with are automatically embedded
-into your email.  *Please note:* if you use the "Ask my instructor" button, your
+in your email.  *Please note:* if you use the "Ask my instructor" button, your
 question may appear on our google group forum (which is public).  If you're
-uncomfortable with this, please say so when asking the question.
+uncomfortable with this, please say so in your message.
 
 Finally, you may email the instructors directly, though the response
 time might be slower than if you use one of the preferred methods above.
