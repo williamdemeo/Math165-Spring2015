@@ -316,9 +316,6 @@ recitation or office hours.
 
 The second best time/place to ask a question is on our [google groups Q&A forum](https://groups.google.com/d/forum/math165-spring2015).
 
-Finally, if you prefer to keep your question private, you may email one of
-the instructors.
-
 There are two ways to post on our google groups forum:
 
 1. visit the page https://groups.google.com/d/forum/math165-spring2015 and
@@ -327,12 +324,15 @@ There are two ways to post on our google groups forum:
 2. send your question to the forum by email at the
    address [math165-spring2015 at googlegroups.com](mailto:math165-spring2015@googlegroups.com).
 
-Finally, you may use the "Ask my instructor" link on MyLabsPlus to ask a
-question about the homework. This is convenient for the instructor because
-details about the problem you're asking about will be automatically embedded
-into your email.  Please note: if you use the "Ask my instructor" button, your
+Another way to ask a question is by using the "Ask my instructor" link on
+MyLabsPlus. This method is most convenient for the instructor because
+details about the problem you're having trouble with are automatically embedded
+into your email.  *Please note:* if you use the "Ask my instructor" button, your
 question may appear on our google group forum (which is public).  If you're
 uncomfortable with this, please say so when asking the question.
+
+Finally, you may email the instructors directly, though the response
+time might be slower than if you use one of the prefered methods above.
 
 
 Use of Electronics During Lecture
