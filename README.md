@@ -166,8 +166,8 @@ There will be two tests, one midterm exam, and one final exam.
 25% of the course grade.**
 
 + **TEST 1** on Chapter 2  
-**TIME:** (to be announced)  
-**LOCATION:** (to be announced)
+**TIME:** Tuesday, February 3 at your usual recitation meeting time.  
+**LOCATION:** in your usual recitation classroom.
   
 + **MIDTERM EXAM** on Chapter 2 and most of Chapter 3 (up to and including 3.8)   
 **TIME:** Wednesday, February 25, 8:15--9:45pm	

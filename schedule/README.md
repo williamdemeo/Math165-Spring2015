@@ -24,15 +24,16 @@ F 1/23: 2.4 One-sided limits
 ---------------------------------------------------------
 M 1/26: 2.5 Continuity  
 <!-- **MLP HW 2: 2.4, 2.5**    -->
-W 1/28: 2.6 Limits involving infinity, asymptotes  
-F 1/30: Review of Chapter 2  
+W 1/28: 2.5 more continuity; limits involving infinity  
+F 1/30: 2.6 Limits involving infinity, asymptotes  
 <!-- **MLP HW 3: 2.6**   -->
 
 
 ## February
 
 -------------------------------------------------------
-M 2/2: **Test 1** (on Sections 2.1--2.6)  
+M 2/2: Review of Chapter 2  
+T 2/3: **Test 1** (on Sections 2.1--2.6)  
 W 2/4: 3.1 Tangents and the derivative at a point  
 F 2/6: 3.2 The derivative as a function  
 
