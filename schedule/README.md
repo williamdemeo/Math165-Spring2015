@@ -23,9 +23,9 @@ F 1/23: 2.4 One-sided limits
 
 ---------------------------------------------------------
 M 1/26: 2.5 Continuity  
-<!-- **MLP HW 2: 2.4, 2.5**    -->
 W 1/28: 2.5 more continuity; limits involving infinity  
 F 1/30: 2.6 Limits involving infinity, asymptotes  
+<!-- **MLP HW 2: 2.4, 2.5**    -->
 <!-- **MLP HW 3: 2.6**   -->
 
 
