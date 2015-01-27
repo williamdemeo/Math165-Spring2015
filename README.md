@@ -11,10 +11,11 @@ Math 165: Calculus I, Spring 2015
 **Teaching Assistants:**  
   + [Mohit Kumbhat](mailto:mkumbhat@iastate.edu) (Secs. 9, 11, 13)  
 	**Office:** Carver 451.  
-	**Office Hours:** T 11--12, Th 10--12.  
+	**Office Hours:** T 11--12, Th 10--12.**
+	
   + [Alex Nowak](mailto:anowak@iastate.edu) (Secs. 10, 12, 14)  
 	**Office:** Carver 489.  
-	**Office Hours:** MW 1:30--2:30.
+	**Office Hours: MW 1:30--2:30.**
 
 **Credits: 4**
 
