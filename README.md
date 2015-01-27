@@ -4,14 +4,14 @@ Math 165: Calculus I, Spring 2015
 **Instructor:**  William DeMeo  
 **Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com)  
 **Office:** Carver, Room 466.  
-**Office hours:** MW 12:30pm--2pm, and by appointment.  
+**Office hours: MW 12:30pm--2pm**, and by appointment.  
 
 **Lecture time and location:** MWF 10--10:50am in Carver 101.
 
 **Teaching Assistants:**  
   + [Mohit Kumbhat](mailto:mkumbhat@iastate.edu) (Secs. 9, 11, 13)  
 	**Office:** Carver 451.  
-	**Office Hours:** T 11--12, Th 10--12.**
+	**Office Hours: T 11--12, Th 10--12.**
 	
   + [Alex Nowak](mailto:anowak@iastate.edu) (Secs. 10, 12, 14)  
 	**Office:** Carver 489.  
