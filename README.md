@@ -16,7 +16,7 @@ Math 165: Calculus I, Spring 2015
 	
   + [Alex Nowak](mailto:anowak@iastate.edu) (Secs. 10, 12, 14)  
 	**Office:** Carver 489.  
-	**Office Hours: M 1:30-2:30pm, W 1:30-3pm**
+	**Office Hours: M 1:30-2:30pm, W 1:30-3pm**  
 	**Help Room: F 1-2pm.** (Carver 385) 
 
 **Credits: 4**
