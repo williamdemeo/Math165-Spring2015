@@ -212,10 +212,14 @@ Solving lots of problems is the best way to prepare yourself to do well on
 the tests and quizzes in this class.
 
 The **online homework will account for 20% of the course grade** and will be
-assigned about once or twice per week.  
+assigned about once or twice per week.
 
 All homework for this course will be done online with the [MyLabsPlus][] (MLP) 
 system. (More info on MLP below.)
+The problems assigned and the due dates will be clearly indicated on the
+MyLabslast website, so students must login frequently and check for newly
+assigned homework. (The last assignment will be due during the last week
+of the semester, also known as "dead week.")  
 
 **Late homework will not be accepted or graded.**  
 
