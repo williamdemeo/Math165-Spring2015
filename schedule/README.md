@@ -50,12 +50,13 @@ W 2/18: 3.7 Implicit differentiation
 F 2/20: 3.8 Derivatives of inverses and logs  
 <!-- **MLP HW 6: 3.4, 3.5**    -->
 <!-- **MLP HW 7: 3.6**    -->
+<!-- **MLP HW 8: 3.7**    -->
 
 ---------------------------------------------------------
 M 2/23: Review and catch-up  
 W 2/25: Midterm exam review  
-+ **MIDTERM EXAM: Wed night, Feb 25, 8:15--9:45pm in HOOVER 2055**  
-<!-- **MLP HW 8: 3.7**    -->
++ **MIDTERM EXAM: February 25 at 8:15--9:45pm in HOOVER 2055**  
+
 
 
 
