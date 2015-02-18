@@ -39,24 +39,23 @@ F 2/6: 3.2 The derivative as a function
 
 --------------
 M 2/9: 3.3 Differentiation rules  
-<!-- **MLP HW 4: 3.1, 3.2**    -->
 W 2/11: 3.4 The derivative as a rate of change  
 F 2/13: 3.5 Derivatives of trig functions  
+<!-- **MLP HW 4: 3.1, 3.2**    -->
 <!-- **MLP HW 5: 3.3**    -->
 
 ----------------------------------------
 M 2/16: 3.6 The chain rule  
+W 2/18: 3.7 Implicit differentiation  
+F 2/20: 3.8 Derivatives of inverses and logs  
 <!-- **MLP HW 6: 3.4, 3.5**    -->
-W 2/18: 3.6 more chain rule  
-F 2/20: 3.7 Implicit differentiation  
 <!-- **MLP HW 7: 3.6**    -->
 
 ---------------------------------------------------------
-M 2/23: 3.8 Derivatives of inverses and logs  
-<!-- **MLP HW 8: 3.7**    -->
+M 2/23: Review and catch-up  
 W 2/25: Midterm exam review  
-+ **Mid-term Exam: Wednesday evening, February 25, 2015, 8:15--9:45pm**  
-
++ **MIDTERM EXAM: Wed night, Feb 25, 8:15--9:45pm in HOOVER 2055**  
+<!-- **MLP HW 8: 3.7**    -->
 
 
 
