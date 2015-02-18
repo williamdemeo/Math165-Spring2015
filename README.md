@@ -201,7 +201,7 @@ prepare for a math test is to practice solving many problems of the kind that
 might appear on the test.
 
 (For your convenience, the old exams for Math 165 are also collected in the
-[exams/old_exams directory](exams/old_exams) of this GitHub repository.)
+[tests/old_exams directory](tests/old_exams) of this GitHub repository.)
 
 
 Quizzes
