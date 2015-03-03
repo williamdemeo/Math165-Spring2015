@@ -57,9 +57,60 @@ M 2/23: Review and catch-up
 W 2/25: Midterm exam review  
 + **MIDTERM EXAM: February 25 at 8:15--9:45pm in HOOVER 2055**  
 
+F 2/27: 3.10 Related rates  
 
+---------------------------------------------------------  
+M 3/02: no class  
+W 3/04: 3.11 Linearization, differentials  
+F 3/06: 4.1 Extreme values of functions
+<!-- **MLP HW 10: 3.10, 3.11** -->
+ 
+---------------------------------------------------------  
+M 3/09: 4.2  
+W 3/11: 4.3 First derivative test  
+F 3/13: 4.4 Concavity, curve sketching
+<!-- **MLP HW 11: 4.1, 4.3**   -->
 
+---------------------------------------------------------  
+M 3/16: no class  
+W 3/18: no class  
+F 3/20: no class  
 
+---------------------------------------------------------  
+M 3/23: 4.4 more curve sketching  
+W 3/25: 4.5 Indeterminate forms, L'Hopitals Rule  
+F 3/27: 4.6 Applied optimization **(last day to drop)**  
+<!-- **MLP HW 12: 4.4, 4.5**   -->
+<!-- **MLP HW 13: 4.6** (Tuesday)  -->
 
+---------------------------------------------------------  
+M 3/30: 4.6 more optimization;  
+W 4/01: **Test 2**  (focus: Sections 3.10--4.1, 4.3--4.6)  
+F 4/03: 4.8 Antiderivatives  
 
+---------------------------------------------------------  
+M 4/06: 5.1 Area, estimating with finite sums  
+W 4/08: 5.2 Sigma notation, limits of partial sums  
+F 4/10: 5.3 The definite integral  
+<!-- **MLP HW 14: 4.8**   -->
+
+--------------------------------------------------------  
+M 4/13: 5.4 The Fundamental Theorem of Calculus  
+W 4/15: 5.5 Indefinite integrals, the substitution method  
+F 4/17: 5.6 The substitution method  
+<!-- **MLP HW 15: 5.1, 5.2** -->
+<!-- **MLP HW 16: 5.3, HW 19: 5.4**     -->
+
+---------------------------------------------------------  
+M 4/20: 5.6 More substitution, area between curves  
+W 4/22: 7.1 The logarithm defined as an integral  
+F 4/24: 7.2 Exponential change, separable differential equations  
+<!-- **MLP HW 20: 5.5** -->
+<!-- **MLP HW 21: 5.6** -->
+
+---------------------------------------------------------  
+M 12/08: 7.4 Relative rates of growth  
+W 12/10: Review/Exercises  
+F 12/12: Practice Test
+  <!-- **MLP HW 22: 7.1, 7.2**   -->
                                                                   
