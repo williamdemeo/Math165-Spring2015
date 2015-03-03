@@ -109,8 +109,8 @@ F 4/24: 7.2 Exponential change, separable differential equations
 <!-- **MLP HW 21: 5.6** -->
 
 ---------------------------------------------------------  
-M 12/08: 7.4 Relative rates of growth  
-W 12/10: Review/Exercises  
-F 12/12: Practice Test  
+M 4/27: 7.4 Relative rates of growth  
+W 4/29: Review/Exercises  
+F 5/1: Practice Test  
 <!-- **MLP HW 22: 7.1, 7.2**   -->
                                                                   
