@@ -61,12 +61,12 @@ F 2/27: 3.10 Related rates
 
 ---------------------------------------------------------  
 M 3/02: no class  
-W 3/04: 3.11 Linearization, differentials  
+W 3/04: 3.10 Linearization, differentials  
 F 3/06: 4.1 Extreme values of functions
 <!-- **MLP HW 10: 3.10, 3.11** -->
  
 ---------------------------------------------------------  
-M 3/09: 4.2  
+M 3/09: 4.2 Mean value theorem  
 W 3/11: 4.3 First derivative test  
 F 3/13: 4.4 Concavity, curve sketching
 <!-- **MLP HW 11: 4.1, 4.3**   -->
@@ -84,7 +84,7 @@ F 3/27: 4.6 Applied optimization **(last day to drop)**
 <!-- **MLP HW 13: 4.6** (Tuesday)  -->
 
 ---------------------------------------------------------  
-M 3/30: 4.6 more optimization;  
+M 3/30: 4.6 more optimization  
 W 4/01: **Test 2**  (focus: Sections 3.10--4.1, 4.3--4.6)  
 F 4/03: 4.8 Antiderivatives  
 
