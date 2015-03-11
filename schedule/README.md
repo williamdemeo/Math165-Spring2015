@@ -85,7 +85,8 @@ F 3/27: 4.6 Applied optimization **(last day to drop)**
 
 ---------------------------------------------------------  
 M 3/30: 4.6 more optimization  
-W 4/01: **Test 2**  (focus: Sections 3.10--4.1, 4.3--4.6)  
+T 3/31: **Test 2**  (focus: Sections 3.10--4.1, 4.3--4.6)  
+W 4/01: Discuss Test2 and begin Section 4.8
 F 4/03: 4.8 Antiderivatives  
 
 ---------------------------------------------------------  

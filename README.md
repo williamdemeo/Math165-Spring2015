@@ -178,9 +178,9 @@ There will be two tests, one midterm exam, and one final exam.
 **TIME:** Wednesday, February 25, 8:15--9:45pm	
 **LOCATION:** Hoover 2055
 
-+ **TEST 2** on Sections 3.8 through 4.6 (except 4.2)  
-**TIME:** (to be announced)  
-**LOCATION:** (to be announced)
++ **TEST 2** on Sections 3.8 through 4.6 (except 4.2)   
+**TIME:** Tuesday, March 31 at your usual recitation meeting time.    
+**LOCATION:** in your usual recitation classroom.  
 
 + **FINAL EXAM** (cumulative)  
 **TIME:** (to be announced)  
