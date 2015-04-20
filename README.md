@@ -182,8 +182,8 @@ There will be two tests, one midterm exam, and one final exam.
 **TIME:** Tuesday, March 31 at your usual recitation meeting time.    
 **LOCATION:** in your usual recitation classroom.  
 
-+ **FINAL EXAM** (cumulative)  
-**TIME:** Thursday, May 7, 7--9pm
++ **FINAL EXAM** (cumulative)    
+**TIME:** Thursday, May 7, 7--9pm  
 **LOCATION:** Hoover 2055
 
 The final exam will be a common and cumulative exam; that is, all Math 165
