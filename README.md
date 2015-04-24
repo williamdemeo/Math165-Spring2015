@@ -367,7 +367,7 @@ week. More information is at https://apps-dso.sws.iastate.edu/si/
 Academic Honesty
 ----------------
 Cheating will not be tolerated. Violations of this policy will be referred to
-and dealt with by the ISU Office of Academic Integrity, in a  manner consistent
+and dealt with by the ISU Office of Judicial Affairs, in a  manner consistent
 with university regulations, which range from a warning to expulsion from the
 university.
 
