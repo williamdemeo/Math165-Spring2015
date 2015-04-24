@@ -281,8 +281,7 @@ The breakdown of the final course grade is as follows:
 
 At the end of the semester, letter grades will be assigned roughly according to
 the following table. However, the scale may be shifted,
-depending on overall student performance.  All curving (if any)
-will occur at the end of the semester.  
+depending on overall student performance. 
 
 + A: 91--100  
 + B+: 87--90   
